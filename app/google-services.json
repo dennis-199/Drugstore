@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "745887517789",
+    "firebase_url": "https://drug-store-1-default-rtdb.firebaseio.com",
+    "project_id": "drug-store-1",
+    "storage_bucket": "drug-store-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745887517789:android:c4739a273de750959c11b4",
+        "android_client_info": {
+          "package_name": "com.example.drugstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745887517789-3f3pq1hh72thhpqd5b0s1vb1sub28osu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtjJz2v7Wkwypgi6rWX1L6TCkcLcBU6ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745887517789-3f3pq1hh72thhpqd5b0s1vb1sub28osu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745887517789:android:45225e037aa7eb7c9c11b4",
+        "android_client_info": {
+          "package_name": "com.example.loginregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745887517789-3f3pq1hh72thhpqd5b0s1vb1sub28osu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtjJz2v7Wkwypgi6rWX1L6TCkcLcBU6ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745887517789-3f3pq1hh72thhpqd5b0s1vb1sub28osu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

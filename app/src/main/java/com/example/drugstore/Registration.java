@@ -105,9 +105,10 @@ public class Registration extends AppCompatActivity {
                         @Override
                         public void onComplete(@NonNull Task<Void> task) {
                             if(task.isSuccessful()){
-                                Toast.makeText(Registration.this, "You have been registred succsesfully", Toast.LENGTH_SHORT).show();
                                 Intent intent = new Intent(Registration.this,Login.class);
                                 startActivity(intent);
+                                Toast.makeText(Registration.this, "You have been registred succsesfully", Toast.LENGTH_SHORT).show();
+
                             }else{
                                 Toast.makeText(Registration.this, "Failed to register", Toast.LENGTH_SHORT).show();
                             }

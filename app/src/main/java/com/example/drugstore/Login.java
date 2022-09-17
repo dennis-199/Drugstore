@@ -34,6 +34,7 @@ public class Login extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
+        // LET'S DO THIS
 
         //final EditText phone = findViewById(R.id.phone);
         //final EditText password = findViewById( R.id.password);
